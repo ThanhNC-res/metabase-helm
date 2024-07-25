@@ -10,9 +10,6 @@ image:
   tag: v0.36.3
   pullPolicy: IfNotPresent
 
-serviceAccountName:
-
-sidecars:
 ## String to fully override metabase.fullname template
 ##
 # fullnameOverride:
